@@ -1,0 +1,3 @@
+actions
+hide
+	visibility := false

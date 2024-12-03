@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WEListModals",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"category",
+		"item",
+		"itemId"
+	],
+	"name" : "WEDeleteListItemModal",
+	"type" : "normal"
+}

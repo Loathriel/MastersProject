@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WEAuth",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WELogin",
+	"type" : "normal"
+}

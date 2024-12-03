@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WEAddListItemModal",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oldWEItem",
+		"itemId"
+	],
+	"name" : "WEEditListItemModal",
+	"type" : "normal"
+}

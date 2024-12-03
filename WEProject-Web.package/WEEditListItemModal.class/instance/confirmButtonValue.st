@@ -1,0 +1,3 @@
+rendering
+confirmButtonValue
+	^ 'Змінити'

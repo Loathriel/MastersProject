@@ -1,0 +1,3 @@
+accessing
+allCategories 
+	^ categories keys

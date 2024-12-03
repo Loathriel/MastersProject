@@ -1,0 +1,3 @@
+rendering
+titleOfWindow
+	^ self subclassResponsibility 

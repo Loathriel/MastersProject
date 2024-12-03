@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WEListModals",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WEDeliteListTitle",
+	"type" : "normal"
+}

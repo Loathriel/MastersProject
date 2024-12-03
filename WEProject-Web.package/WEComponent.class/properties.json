@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WEPageComponent",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentList",
+		"currentCategory"
+	],
+	"name" : "WEComponent",
+	"type" : "normal"
+}

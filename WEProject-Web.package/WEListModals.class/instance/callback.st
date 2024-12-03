@@ -1,0 +1,3 @@
+rendering
+callback
+	^ self subclassResponsibility 

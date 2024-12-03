@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WEComponent",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WESingleListView",
+	"type" : "normal"
+}

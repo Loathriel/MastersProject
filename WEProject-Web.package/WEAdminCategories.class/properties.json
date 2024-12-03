@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WECategories",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WEAdminCategories",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+rendering
+titleOfWindow
+	^ 'Видалення списку'

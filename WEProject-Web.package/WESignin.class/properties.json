@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WEAuth",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"confirmedPassword"
+	],
+	"name" : "WESignin",
+	"type" : "normal"
+}

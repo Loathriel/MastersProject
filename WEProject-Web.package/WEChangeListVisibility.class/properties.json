@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WEListModals",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"visibility"
+	],
+	"name" : "WEChangeListVisibility",
+	"type" : "normal"
+}

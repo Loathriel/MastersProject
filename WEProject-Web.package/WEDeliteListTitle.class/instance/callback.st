@@ -1,0 +1,4 @@
+rendering
+callback
+
+	component deleteList.

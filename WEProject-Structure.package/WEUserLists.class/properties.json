@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "WEProject-Structure",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lists",
+		"user",
+		"usedCategories"
+	],
+	"name" : "WEUserLists",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "WEPageComponent",
+	"category" : "WEProject-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"showLoginError",
+		"showUsernameExistsError",
+		"showDifferentPasswordsError",
+		"showEmptyPasswordError"
+	],
+	"name" : "WELandingPage",
+	"type" : "normal"
+}

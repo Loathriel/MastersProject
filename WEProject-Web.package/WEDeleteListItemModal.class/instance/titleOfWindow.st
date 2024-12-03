@@ -1,0 +1,3 @@
+rendering
+titleOfWindow
+	^ 'Видалити пункт'
